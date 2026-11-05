@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// Variable()
-	Array()
+	// Array()
+	Map()
 }
