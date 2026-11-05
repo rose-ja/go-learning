@@ -4,5 +4,6 @@ func main() {
 	// Variable()
 	// Array()
 	// Map()
-	Pointer()
+	// Pointer()
+	WordCount("Go is good Go is powerful Go")
 }
